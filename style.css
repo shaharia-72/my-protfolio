@@ -1,0 +1,24 @@
+body{
+    font-family: 'Prosto One', cursive;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.highlight{
+    color: brown;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    padding-left: 0%;
+
+}
+
+.half-width img{
+    width: 100%;
+
+}
